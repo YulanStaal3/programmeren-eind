@@ -117,8 +117,6 @@ klaar.addEventListener('click', function () {
 // https://www.w3schools.com/jsref/prop_style_backgroundcolor.asp
 
 
-testest
-
 
 
 
